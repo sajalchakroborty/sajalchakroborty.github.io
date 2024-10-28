@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sajalchakroborty.github.io/sitemap.xml

@@ -1658,7 +1658,36 @@ input, select, textarea {
 			.button.alt:hover {
 				background: #353132;
 			}
+		input[type="button"].green,
+		input[type="submit"].green,
+		input[type="reset"].green,
+		button.alt,
+		.button.alt {
+			background: green;
+		}
 
+			input[type="button"].green:hover,
+			input[type="submit"].green:hover,
+			input[type="reset"].green:hover,
+			button.alt:hover,
+			.button.alt:hover {
+				background: #353132;
+			}
+		input[type="button"].blue,
+		input[type="submit"].blue,
+		input[type="reset"].blue,
+		button.alt,
+		.button.alt {
+			background: blue;
+		}
+
+			input[type="button"].blue:hover,
+			input[type="submit"].blue:hover,
+			input[type="reset"].blue:hover,
+			button.alt:hover,
+			.button.alt:hover {
+				background: #353132;
+			}
 			input[type="button"].alt:active,
 			input[type="submit"].alt:active,
 			input[type="reset"].alt:active,
